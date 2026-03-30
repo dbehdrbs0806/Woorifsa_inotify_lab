@@ -3,7 +3,9 @@
 ## 📌 1. 개요
 
 본 실습은 **로컬 환경에서 코드 변경을 자동**으로 감지하고 빌드한 뒤 원격 VM으로 전송, **배포하여 재실행을 수행**하는 자동화 구조를 구성  
-Jenkins나 GitHub Actions 와 같은 툴 없이, `Bash 스크립트와 Linux의 inotify 기능`만을 이용해 **간단한 CI/CD 흐름**을 직접 구현
+Jenkins나 GitHub Actions 와 같은 툴 없이, `Bash 스크립트와 Linux의 inotify 기능`만을 이용해 **간단한 CI/CD 흐름**을 직접 구현  
+<br>
+<img width="1000" height="400" alt="스크린샷 2026-03-24 174214" src="https://github.com/user-attachments/assets/92c9cbb3-d241-48c6-93ae-61bd7559cab8" />
 
 ---
 
